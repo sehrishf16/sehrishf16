@@ -1,5 +1,5 @@
 ## Hi there 👋
-## <br><br>I’m currently working as a **Software Developer Intern**, building modern web applications using **React, TypeScript, and Material UI**<br><br>I’m looking to collaborate on **frontend and full-stack development projects**<br><br>I’m looking for help with **scalable backend integration and performance optimization**<br><br>I’m currently learning **React Native and advanced frontend architecture**<br><br>Ask me about **React, JavaScript, TypeScript, REST APIs, and responsive UI development**<br><br>Fun fact: I love transforming ideas into **clean, intuitive user experiences**
+## I’m currently working as a **Software Developer Intern**, building modern web applications using **React, TypeScript, and Material UI**<br><br>I’m looking to collaborate on **frontend and full-stack development projects**<br><br>I’m looking for help with **scalable backend integration and performance optimization**<br><br>I’m currently learning **React Native and advanced frontend architecture**<br><br>Ask me about **React, JavaScript, TypeScript, REST APIs, and responsive UI development**<br><br>Fun fact: I love transforming ideas into **clean, intuitive user experiences**
 
 
 ## Socials:
