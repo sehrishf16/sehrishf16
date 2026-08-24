@@ -104,10 +104,10 @@ UI                Responsive Design · Component-Based Architecture
 
 ## 💬 Developer Philosophy
 
-> **"Great interfaces are not just built to work — they're built to feel simple."**
-
+> **"Great interfaces are not just built to work — they're built to feel simple."*
 I believe good software combines **clean code, thoughtful design, performance, and a great user experience.**
 
+---
 <p align="center">
   ⭐ <b>Thanks for visiting my profile!</b> ⭐
 </p>
