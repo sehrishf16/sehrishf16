@@ -80,19 +80,6 @@ UI                Responsive Design · Component-Based Architecture
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sehrishf16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehrishf16&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sehrishf16&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 💡 Currently Learning
 
 * Advanced React patterns
@@ -120,18 +107,6 @@ UI                Responsive Design · Component-Based Architecture
 > **"Great interfaces are not just built to work — they're built to feel simple."**
 
 I believe good software combines **clean code, thoughtful design, performance, and a great user experience.**
-
----
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sehrishf16&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sehrishf16&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
----
 
 <p align="center">
   ⭐ <b>Thanks for visiting my profile!</b> ⭐
