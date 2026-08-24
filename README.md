@@ -1,38 +1,150 @@
-## Hi there 👋
-## I’m currently working as a **Junior Software Developer**, building modern web applications using **React, TypeScript, and Material UI**<br><br>I’m looking to collaborate on **frontend and full-stack development projects**<br><br>I’m currently learning **React Native and advanced frontend architecture**<br><br>Ask me about **React, JavaScript, TypeScript, REST APIs, and responsive UI development**<br><br>Fun fact: I love transforming ideas into **clean, intuitive user experiences**
+# 👋 Hi, I'm Sehrish Fatema
 
+### Junior Software Developer | React.js | TypeScript | React Native
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sehrish Fatema ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sehrishfatema10@gmail.com) 
+I'm a **Junior Software Developer** focused on building modern, scalable, and user-friendly applications using **React, TypeScript, and Material UI**.
 
-# Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sehrishf16&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sehrishf16&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sehrishf16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy turning ideas into **clean, intuitive, and responsive user experiences** while continuously improving my frontend architecture and development practices.
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sehrishf16&limit=5&theme=dark&combine_all_yearly_contributions=true)
+* 💻 Currently working as a **Junior Software Developer**
+* ⚛️ Building applications with **React.js, TypeScript & Material UI**
+* 📱 Currently learning and building with **React Native**
+* 🚀 Interested in **Frontend & Full-Stack Development**
+* 🌱 Exploring **advanced frontend architecture and scalable application design**
+* 🤝 Open to collaborating on interesting **frontend and full-stack projects**
+* 💬 Ask me about **React, JavaScript, TypeScript, REST APIs & responsive UI development**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sehrishf16&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**sehrishf16/sehrishf16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Connect With Me
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://linkedin.com/in/sehrish-fatema-1856b3259">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sehrishfatema10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/sehrishf16">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,materialui" />
+</p>
+
+### 📱 Mobile Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+**React Native**
+
+### 🔗 State Management & Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=redux" />
+</p>
+
+**Redux Toolkit · Context API · React Query · REST APIs**
+
+### 🗄️ Database & Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,nodejs" />
+</p>
+
+**MySQL · REST API Integration**
+
+### 🧰 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+**Git · GitHub · VS Code · Postman · Canva**
+
+---
+
+## 🚀 What I Work With
+
+```text
+Frontend          React.js · TypeScript · JavaScript · Material UI
+Mobile            React Native
+State Management  Redux Toolkit · Context API · React Query
+API               REST APIs · API Integration
+Database          MySQL
+Tools             Git · GitHub · Postman · VS Code
+UI                Responsive Design · Component-Based Architecture
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sehrishf16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehrishf16&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sehrishf16&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 💡 Currently Learning
+
+* Advanced React patterns
+* Scalable frontend architecture
+* React Native
+* TypeScript best practices
+* Performance optimization
+* Clean and reusable component design
+
+---
+
+## 🎯 2026 Goals
+
+* 🚀 Build production-ready React & React Native applications
+* 🧩 Improve frontend architecture and system design skills
+* 📱 Build and publish more mobile applications
+* 🌍 Contribute to open-source projects
+* 🤝 Collaborate with developers on meaningful projects
+* 📚 Continuously improve my technical and problem-solving skills
+
+---
+
+## 💬 Developer Philosophy
+
+> **"Great interfaces are not just built to work — they're built to feel simple."**
+
+I believe good software combines **clean code, thoughtful design, performance, and a great user experience.**
+
+---
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sehrishf16&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sehrishf16&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <b>Thanks for visiting my profile!</b> ⭐
+</p>
+
+<p align="center">
+  <i>Let's build something amazing together.</i> 🚀
+</p>
