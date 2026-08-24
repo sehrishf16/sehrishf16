@@ -56,14 +56,6 @@ I enjoy turning ideas into **clean, intuitive, and responsive user experiences**
 
 **Redux Toolkit · Context API · React Query · REST APIs**
 
-### 🗄️ Database & Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,nodejs" />
-</p>
-
-**MySQL · REST API Integration**
-
 ### 🧰 Tools
 
 <p align="left">
